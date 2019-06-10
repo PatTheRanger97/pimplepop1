@@ -38,6 +38,8 @@ btn.layer.cornerRadius = 20.0
         /*let hscore1 = UserDefaults.standard.string(forKey: "Key")
         highscore1.text = String(hscore1 ?? "0")*/
     }
+    
+    // Biji Kuda
 
 }
 
